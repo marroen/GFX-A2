@@ -1,0 +1,1034 @@
+[
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/glm -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -o CMakeFiles/project.dir/src/main.cpp.o -c /Users/marty/uu/gfx/A22/project/src/main.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/src/main.cpp",
+  "output": "CMakeFiles/project.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/BCDecompressor.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/BCDecompressor.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/BCDecompressor.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/BCDecompressor.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Barrier.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Barrier.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Barrier.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Barrier.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Blob.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Blob.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Blob.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Blob.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Exception.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Exception.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Exception.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Exception.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Float16Compressor.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Float16Compressor.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Float16Compressor.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Float16Compressor.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Image.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Image.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Image.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Image.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/ImageFlags.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/ImageFlags.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/ImageFlags.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/ImageFlags.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/ImageUtils.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/ImageUtils.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/ImageUtils.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/ImageUtils.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Input.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Input.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Input.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Input.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Interface.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Interface.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Interface.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Interface.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Log.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Log.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Log.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Log.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Parse.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Parse.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Parse.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Parse.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Report.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Report.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Report.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Report.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/StringUtils.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/StringUtils.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/StringUtils.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/StringUtils.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Threading.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Threading.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Threading.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Threading.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/TypeNames.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/TypeNames.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/TypeNames.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/TypeNames.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Types.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Types.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Types.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Types.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/UTF8String.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/UTF8String.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/UTF8String.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/UTF8String.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Utility.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Utility.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Utility.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Utility.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Vendor.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Vendor.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Vendor.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Vendor.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Version.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Version.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Core/Version.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Core/Version.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/Canvas.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/Canvas.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/Canvas.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/Canvas.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/ConsoleManip.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/ConsoleManip.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/ConsoleManip.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/ConsoleManip.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/Debug.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/Debug.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/Debug.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/Debug.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/Display.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/Display.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/Display.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/Display.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/DisplayFlags.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/DisplayFlags.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/DisplayFlags.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/DisplayFlags.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/Path.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/Path.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/Path.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/Path.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/Window.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/Window.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/Window.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/Window.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/MacOS/MacOSAppDelegate.mm.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/MacOS/MacOSAppDelegate.mm",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/MacOS/MacOSAppDelegate.mm",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/MacOS/MacOSAppDelegate.mm.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/MacOS/MacOSDebug.mm.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/MacOS/MacOSDebug.mm",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/MacOS/MacOSDebug.mm",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/MacOS/MacOSDebug.mm.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/MacOS/MacOSDisplay.mm.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/MacOS/MacOSDisplay.mm",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/MacOS/MacOSDisplay.mm",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/MacOS/MacOSDisplay.mm.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/MacOS/MacOSModule.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/MacOS/MacOSModule.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/MacOS/MacOSModule.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/MacOS/MacOSModule.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/MacOS/MacOSPath.mm.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/MacOS/MacOSPath.mm",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/MacOS/MacOSPath.mm",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/MacOS/MacOSPath.mm.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/MacOS/MacOSSubviewWindow.mm.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/MacOS/MacOSSubviewWindow.mm",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/MacOS/MacOSSubviewWindow.mm",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/MacOS/MacOSSubviewWindow.mm.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/MacOS/MacOSTimer.mm.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/MacOS/MacOSTimer.mm",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/MacOS/MacOSTimer.mm",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/MacOS/MacOSTimer.mm.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/MacOS/MacOSWindow.mm.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/MacOS/MacOSWindow.mm",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/MacOS/MacOSWindow.mm",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/MacOS/MacOSWindow.mm.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/MacOS/MacOSWindowDelegate.mm.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/MacOS/MacOSWindowDelegate.mm",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/MacOS/MacOSWindowDelegate.mm",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/MacOS/MacOSWindowDelegate.mm.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/MacOS/MapKey.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/MacOS/MapKey.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/MacOS/MapKey.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/MacOS/MapKey.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/POSIX/POSIXConsoleManip.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/POSIX/POSIXConsoleManip.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/POSIX/POSIXConsoleManip.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/POSIX/POSIXConsoleManip.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/POSIX/POSIXDebug.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/POSIX/POSIXDebug.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Platform/POSIX/POSIXDebug.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Platform/POSIX/POSIXDebug.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/BindingIterator.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/BindingIterator.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/BindingIterator.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/BindingIterator.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/Buffer.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Buffer.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Buffer.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/Buffer.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/BufferArray.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/BufferArray.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/BufferArray.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/BufferArray.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/BufferFlags.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/BufferFlags.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/BufferFlags.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/BufferFlags.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/BufferUtils.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/BufferUtils.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/BufferUtils.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/BufferUtils.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/Format.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Format.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Format.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/Format.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/PipelineStateFlags.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/PipelineStateFlags.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/PipelineStateFlags.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/PipelineStateFlags.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/PipelineStateUtils.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/PipelineStateUtils.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/PipelineStateUtils.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/PipelineStateUtils.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/ProxyPipelineCache.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/ProxyPipelineCache.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/ProxyPipelineCache.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/ProxyPipelineCache.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/QueryHeap.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/QueryHeap.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/QueryHeap.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/QueryHeap.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/RenderPassUtils.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/RenderPassUtils.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/RenderPassUtils.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/RenderPassUtils.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/RenderSystem.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/RenderSystem.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/RenderSystem.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/RenderSystem.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/RenderSystemFlags.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/RenderSystemFlags.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/RenderSystemFlags.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/RenderSystemFlags.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/RenderSystemModule.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/RenderSystemModule.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/RenderSystemModule.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/RenderSystemModule.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/RenderSystemRegistry.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/RenderSystemRegistry.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/RenderSystemRegistry.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/RenderSystemRegistry.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/RenderTarget.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/RenderTarget.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/RenderTarget.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/RenderTarget.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/RenderTargetUtils.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/RenderTargetUtils.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/RenderTargetUtils.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/RenderTargetUtils.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/RenderingDebugger.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/RenderingDebugger.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/RenderingDebugger.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/RenderingDebugger.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/ResourceUtils.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/ResourceUtils.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/ResourceUtils.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/ResourceUtils.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/Sampler.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Sampler.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Sampler.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/Sampler.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/Shader.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Shader.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Shader.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/Shader.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/ShaderFlags.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/ShaderFlags.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/ShaderFlags.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/ShaderFlags.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/StaticAssertions.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/StaticAssertions.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/StaticAssertions.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/StaticAssertions.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/StaticModuleInterface.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/StaticModuleInterface.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/StaticModuleInterface.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/StaticModuleInterface.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/SwapChain.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/SwapChain.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/SwapChain.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/SwapChain.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/Texture.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Texture.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Texture.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/Texture.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/TextureFlags.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/TextureFlags.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/TextureFlags.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/TextureFlags.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/TextureUtils.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/TextureUtils.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/TextureUtils.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/TextureUtils.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/VertexAttribute.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/VertexAttribute.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/VertexAttribute.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/VertexAttribute.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/DbgCommandBuffer.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/DbgCommandBuffer.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/DbgCommandBuffer.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/DbgCommandBuffer.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/DbgCommandQueue.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/DbgCommandQueue.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/DbgCommandQueue.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/DbgCommandQueue.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/DbgQueryTimerPool.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/DbgQueryTimerPool.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/DbgQueryTimerPool.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/DbgQueryTimerPool.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/DbgRenderSystem.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/DbgRenderSystem.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/DbgRenderSystem.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/DbgRenderSystem.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/DbgSwapChain.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/DbgSwapChain.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/DbgSwapChain.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/DbgSwapChain.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/Buffer/DbgBuffer.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/Buffer/DbgBuffer.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/Buffer/DbgBuffer.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/Buffer/DbgBuffer.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/Buffer/DbgBufferArray.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/Buffer/DbgBufferArray.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/Buffer/DbgBufferArray.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/Buffer/DbgBufferArray.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/RenderState/DbgPipelineLayout.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/RenderState/DbgPipelineLayout.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/RenderState/DbgPipelineLayout.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/RenderState/DbgPipelineLayout.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/RenderState/DbgPipelineState.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/RenderState/DbgPipelineState.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/RenderState/DbgPipelineState.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/RenderState/DbgPipelineState.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/RenderState/DbgQueryHeap.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/RenderState/DbgQueryHeap.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/RenderState/DbgQueryHeap.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/RenderState/DbgQueryHeap.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/RenderState/DbgRenderPass.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/RenderState/DbgRenderPass.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/RenderState/DbgRenderPass.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/RenderState/DbgRenderPass.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/RenderState/DbgResourceHeap.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/RenderState/DbgResourceHeap.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/RenderState/DbgResourceHeap.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/RenderState/DbgResourceHeap.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/Shader/DbgShader.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/Shader/DbgShader.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/Shader/DbgShader.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/Shader/DbgShader.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/Texture/DbgRenderTarget.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/Texture/DbgRenderTarget.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/Texture/DbgRenderTarget.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/Texture/DbgRenderTarget.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_BUILD_RENDERER_NULL -DLLGL_BUILD_RENDERER_OPENGL -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_EXPORTS -DLLGL_MACOS_ENABLE_COREVIDEO -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/Texture/DbgTexture.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/Texture/DbgTexture.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/DebugLayer/Texture/DbgTexture.cpp",
+  "output": "third_party/LLGL/CMakeFiles/LLGL.dir/sources/Renderer/DebugLayer/Texture/DbgTexture.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_Null_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/NullModuleInterface.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/NullModuleInterface.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/NullModuleInterface.cpp",
+  "output": "third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/NullModuleInterface.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_Null_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/NullRenderSystem.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/NullRenderSystem.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/NullRenderSystem.cpp",
+  "output": "third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/NullRenderSystem.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_Null_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/NullSwapChain.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/NullSwapChain.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/NullSwapChain.cpp",
+  "output": "third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/NullSwapChain.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_Null_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/Buffer/NullBuffer.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/Buffer/NullBuffer.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/Buffer/NullBuffer.cpp",
+  "output": "third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/Buffer/NullBuffer.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_Null_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/Buffer/NullBufferArray.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/Buffer/NullBufferArray.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/Buffer/NullBufferArray.cpp",
+  "output": "third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/Buffer/NullBufferArray.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_Null_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/Command/NullCommandBuffer.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/Command/NullCommandBuffer.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/Command/NullCommandBuffer.cpp",
+  "output": "third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/Command/NullCommandBuffer.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_Null_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/Command/NullCommandExecutor.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/Command/NullCommandExecutor.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/Command/NullCommandExecutor.cpp",
+  "output": "third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/Command/NullCommandExecutor.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_Null_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/Command/NullCommandQueue.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/Command/NullCommandQueue.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/Command/NullCommandQueue.cpp",
+  "output": "third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/Command/NullCommandQueue.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_Null_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/RenderState/NullFence.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/RenderState/NullFence.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/RenderState/NullFence.cpp",
+  "output": "third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/RenderState/NullFence.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_Null_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/RenderState/NullPipelineLayout.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/RenderState/NullPipelineLayout.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/RenderState/NullPipelineLayout.cpp",
+  "output": "third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/RenderState/NullPipelineLayout.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_Null_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/RenderState/NullPipelineState.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/RenderState/NullPipelineState.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/RenderState/NullPipelineState.cpp",
+  "output": "third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/RenderState/NullPipelineState.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_Null_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/RenderState/NullQueryHeap.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/RenderState/NullQueryHeap.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/RenderState/NullQueryHeap.cpp",
+  "output": "third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/RenderState/NullQueryHeap.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_Null_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/RenderState/NullRenderPass.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/RenderState/NullRenderPass.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/RenderState/NullRenderPass.cpp",
+  "output": "third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/RenderState/NullRenderPass.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_Null_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/RenderState/NullResourceHeap.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/RenderState/NullResourceHeap.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/RenderState/NullResourceHeap.cpp",
+  "output": "third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/RenderState/NullResourceHeap.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_Null_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/Shader/NullShader.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/Shader/NullShader.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/Shader/NullShader.cpp",
+  "output": "third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/Shader/NullShader.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_Null_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/Texture/NullRenderTarget.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/Texture/NullRenderTarget.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/Texture/NullRenderTarget.cpp",
+  "output": "third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/Texture/NullRenderTarget.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_Null_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/Texture/NullSampler.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/Texture/NullSampler.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/Texture/NullSampler.cpp",
+  "output": "third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/Texture/NullSampler.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_Null_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/Texture/NullTexture.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/Texture/NullTexture.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/Null/Texture/NullTexture.cpp",
+  "output": "third_party/LLGL/sources/Renderer/Null/CMakeFiles/LLGL_Null.dir/Texture/NullTexture.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/GLCore.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/GLCore.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/GLCore.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/GLCore.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/GLModuleInterface.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/GLModuleInterface.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/GLModuleInterface.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/GLModuleInterface.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/GLObjectUtils.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/GLObjectUtils.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/GLObjectUtils.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/GLObjectUtils.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/GLRenderSystem.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/GLRenderSystem.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/GLRenderSystem.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/GLRenderSystem.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/GLStaticAssertions.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/GLStaticAssertions.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/GLStaticAssertions.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/GLStaticAssertions.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/GLSwapChain.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/GLSwapChain.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/GLSwapChain.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/GLSwapChain.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/GLTypes.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/GLTypes.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/GLTypes.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/GLTypes.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Buffer/GL3PlusSharedContextVertexArray.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Buffer/GL3PlusSharedContextVertexArray.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Buffer/GL3PlusSharedContextVertexArray.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Buffer/GL3PlusSharedContextVertexArray.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Buffer/GLBuffer.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Buffer/GLBuffer.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Buffer/GLBuffer.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Buffer/GLBuffer.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Buffer/GLBufferArray.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Buffer/GLBufferArray.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Buffer/GLBufferArray.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Buffer/GLBufferArray.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Buffer/GLBufferArrayWithVAO.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Buffer/GLBufferArrayWithVAO.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Buffer/GLBufferArrayWithVAO.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Buffer/GLBufferArrayWithVAO.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Buffer/GLBufferWithVAO.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Buffer/GLBufferWithVAO.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Buffer/GLBufferWithVAO.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Buffer/GLBufferWithVAO.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Buffer/GLBufferWithXFB.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Buffer/GLBufferWithXFB.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Buffer/GLBufferWithXFB.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Buffer/GLBufferWithXFB.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Buffer/GLVertexArrayObject.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Buffer/GLVertexArrayObject.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Buffer/GLVertexArrayObject.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Buffer/GLVertexArrayObject.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Buffer/GLVertexAttribute.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Buffer/GLVertexAttribute.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Buffer/GLVertexAttribute.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Buffer/GLVertexAttribute.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Command/GLCommandBuffer.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Command/GLCommandBuffer.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Command/GLCommandBuffer.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Command/GLCommandBuffer.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Command/GLCommandExecutor.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Command/GLCommandExecutor.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Command/GLCommandExecutor.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Command/GLCommandExecutor.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Command/GLCommandQueue.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Command/GLCommandQueue.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Command/GLCommandQueue.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Command/GLCommandQueue.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Command/GLDeferredCommandBuffer.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Command/GLDeferredCommandBuffer.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Command/GLDeferredCommandBuffer.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Command/GLDeferredCommandBuffer.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Command/GLImmediateCommandBuffer.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Command/GLImmediateCommandBuffer.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Command/GLImmediateCommandBuffer.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Command/GLImmediateCommandBuffer.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Ext/GLExtensionRegistry.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Ext/GLExtensionRegistry.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Ext/GLExtensionRegistry.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Ext/GLExtensionRegistry.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Platform/MacOS/MacOSGLContext.mm.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Platform/MacOS/MacOSGLContext.mm",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Platform/MacOS/MacOSGLContext.mm",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Platform/MacOS/MacOSGLContext.mm.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Platform/MacOS/MacOSGLSwapChainContext.mm.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Platform/MacOS/MacOSGLSwapChainContext.mm",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Platform/MacOS/MacOSGLSwapChainContext.mm",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Platform/MacOS/MacOSGLSwapChainContext.mm.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Platform/GLContext.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Platform/GLContext.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Platform/GLContext.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Platform/GLContext.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Platform/GLContextManager.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Platform/GLContextManager.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Platform/GLContextManager.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Platform/GLContextManager.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Platform/GLSwapChainContext.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Platform/GLSwapChainContext.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Platform/GLSwapChainContext.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Platform/GLSwapChainContext.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLBlendState.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLBlendState.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLBlendState.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLBlendState.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLComputePSO.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLComputePSO.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLComputePSO.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLComputePSO.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLContextState.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLContextState.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLContextState.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLContextState.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLDepthStencilState.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLDepthStencilState.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLDepthStencilState.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLDepthStencilState.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLFence.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLFence.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLFence.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLFence.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLGraphicsPSO.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLGraphicsPSO.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLGraphicsPSO.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLGraphicsPSO.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLPipelineCache.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLPipelineCache.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLPipelineCache.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLPipelineCache.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLPipelineLayout.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLPipelineLayout.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLPipelineLayout.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLPipelineLayout.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLPipelineState.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLPipelineState.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLPipelineState.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLPipelineState.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLQueryHeap.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLQueryHeap.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLQueryHeap.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLQueryHeap.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLRasterizerState.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLRasterizerState.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLRasterizerState.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLRasterizerState.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLRenderPass.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLRenderPass.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLRenderPass.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLRenderPass.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLResourceHeap.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLResourceHeap.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLResourceHeap.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLResourceHeap.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLStateManager.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLStateManager.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLStateManager.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLStateManager.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLStatePool.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLStatePool.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/RenderState/GLStatePool.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/RenderState/GLStatePool.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLLegacyShader.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLLegacyShader.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLLegacyShader.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLLegacyShader.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLPipelineSignature.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLPipelineSignature.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLPipelineSignature.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLPipelineSignature.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLProgramPipeline.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLProgramPipeline.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLProgramPipeline.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLProgramPipeline.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLSeparableShader.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLSeparableShader.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLSeparableShader.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLSeparableShader.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLShader.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLShader.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLShader.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLShader.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLShaderBindingLayout.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLShaderBindingLayout.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLShaderBindingLayout.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLShaderBindingLayout.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLShaderBufferInterfaceMap.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLShaderBufferInterfaceMap.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLShaderBufferInterfaceMap.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLShaderBufferInterfaceMap.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLShaderPipeline.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLShaderPipeline.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLShaderPipeline.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLShaderPipeline.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLShaderProgram.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLShaderProgram.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLShaderProgram.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLShaderProgram.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLShaderSourcePatcher.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLShaderSourcePatcher.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLShaderSourcePatcher.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLShaderSourcePatcher.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLShaderUniform.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLShaderUniform.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Shader/GLShaderUniform.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Shader/GLShaderUniform.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLEmulatedSampler.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLEmulatedSampler.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLEmulatedSampler.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLEmulatedSampler.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLFramebuffer.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLFramebuffer.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLFramebuffer.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLFramebuffer.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLFramebufferCapture.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLFramebufferCapture.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLFramebufferCapture.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLFramebufferCapture.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLMipGenerator.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLMipGenerator.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLMipGenerator.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLMipGenerator.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLRenderTarget.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLRenderTarget.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLRenderTarget.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLRenderTarget.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLRenderbuffer.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLRenderbuffer.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLRenderbuffer.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLRenderbuffer.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLSampler.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLSampler.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLSampler.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLSampler.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLTexImage.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLTexImage.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLTexImage.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLTexImage.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLTexSubImage.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLTexSubImage.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLTexSubImage.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLTexSubImage.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLTexture.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLTexture.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLTexture.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLTexture.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLTextureSubImage.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLTextureSubImage.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLTextureSubImage.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLTextureSubImage.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLTextureViewPool.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLTextureViewPool.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Texture/GLTextureViewPool.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Texture/GLTextureViewPool.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Profile/GLCore/GLCoreExtensionLoader.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Profile/GLCore/GLCoreExtensionLoader.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Profile/GLCore/GLCoreExtensionLoader.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Profile/GLCore/GLCoreExtensionLoader.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Profile/GLCore/GLCoreExtensions.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Profile/GLCore/GLCoreExtensions.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Profile/GLCore/GLCoreExtensions.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Profile/GLCore/GLCoreExtensions.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Profile/GLCore/GLCoreProfile.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Profile/GLCore/GLCoreProfile.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Profile/GLCore/GLCoreProfile.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Profile/GLCore/GLCoreProfile.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -DGL_SILENCE_DEPRECATION -DLLGL_DEBUG -DLLGL_ENABLE_CHECKED_CAST -DLLGL_ENABLE_DEBUG_LAYER -DLLGL_GL_ENABLE_DSA_EXT -DLLGL_GL_ENABLE_VENDOR_EXT -DLLGL_MACOS_ENABLE_COREVIDEO -DLLGL_OPENGL -DLLGL_OpenGL_EXPORTS -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/include -I/Users/marty/uu/gfx/A22/project/third_party/LLGL/external/OpenGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC -o third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Profile/GLCore/GLCoreProfileCaps.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Profile/GLCore/GLCoreProfileCaps.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/LLGL/sources/Renderer/OpenGL/Profile/GLCore/GLCoreProfileCaps.cpp",
+  "output": "third_party/LLGL/sources/Renderer/OpenGL/CMakeFiles/LLGL_OpenGL.dir/Profile/GLCore/GLCoreProfileCaps.cpp.o"
+},
+{
+  "directory": "/Users/marty/uu/gfx/A22/project/build",
+  "command": "/usr/bin/clang++ -I/Users/marty/uu/gfx/A22/project/include/project -I/Users/marty/uu/gfx/A22/project/third_party/glm -g -std=c++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -Wno-c++98-compat -Wno-c++98-compat-pedantic -o third_party/glm/glm/CMakeFiles/glm.dir/detail/glm.cpp.o -c /Users/marty/uu/gfx/A22/project/third_party/glm/glm/detail/glm.cpp",
+  "file": "/Users/marty/uu/gfx/A22/project/third_party/glm/glm/detail/glm.cpp",
+  "output": "third_party/glm/glm/CMakeFiles/glm.dir/detail/glm.cpp.o"
+}
+]

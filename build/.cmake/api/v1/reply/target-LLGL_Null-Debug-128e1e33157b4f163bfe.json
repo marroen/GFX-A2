@@ -1,0 +1,555 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "third_party/LLGL/build/libLLGL_NullD.dylib"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"add_llgl_module",
+			"install",
+			"target_link_libraries",
+			"add_compile_definitions",
+			"ADD_DEBUG_DEFINE",
+			"add_definitions",
+			"ADD_DEFINE",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"third_party/LLGL/CMakeLists.txt",
+			"third_party/LLGL/sources/Renderer/Null/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 50,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 251,
+				"parent" : 1
+			},
+			{
+				"file" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 780,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 51,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 698,
+				"parent" : 3
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 398,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 114,
+				"parent" : 7
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 469,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 114,
+				"parent" : 9
+			},
+			{
+				"command" : 7,
+				"file" : 0,
+				"line" : 473,
+				"parent" : 3
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 105,
+				"parent" : 11
+			},
+			{
+				"command" : 7,
+				"file" : 0,
+				"line" : 489,
+				"parent" : 3
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 105,
+				"parent" : 13
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 12,
+				"parent" : 15
+			},
+			{
+				"command" : 8,
+				"file" : 0,
+				"line" : 625,
+				"parent" : 3
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 8,
+					"define" : "LLGL_DEBUG"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "LLGL_ENABLE_CHECKED_CAST"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "LLGL_ENABLE_DEBUG_LAYER"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "LLGL_MACOS_ENABLE_COREVIDEO"
+				},
+				{
+					"define" : "LLGL_Null_EXPORTS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 16,
+					"path" : "/Users/marty/uu/gfx/A22/project/include/project"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/Users/marty/uu/gfx/A22/project/third_party/LLGL/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				3,
+				5,
+				7,
+				10,
+				12,
+				15,
+				17,
+				19,
+				21,
+				23,
+				25,
+				27,
+				29,
+				31,
+				33,
+				35
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 5,
+			"id" : "LLGL::@5e5d55b1aec3edd41925"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "LLGL"
+	},
+	"id" : "LLGL_Null::@d4b6812dabab1626472b",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 4,
+				"path" : "lib"
+			},
+			{
+				"backtrace" : 4,
+				"path" : "lib"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/usr/local"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-L/opt/homebrew/opt/llvm@18/lib -lunwind",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/Users/marty/uu/gfx/A22/project/build/third_party/LLGL/build",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "third_party/LLGL/build/libLLGLD.dylib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-framework Cocoa",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-framework CoreVideo",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "LLGL_Null",
+	"nameOnDisk" : "libLLGL_NullD.dylib",
+	"paths" : 
+	{
+		"build" : "third_party/LLGL/sources/Renderer/Null",
+		"source" : "third_party/LLGL/sources/Renderer/Null"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Null",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"name" : "Null\\Buffer",
+			"sourceIndexes" : 
+			[
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"name" : "Null\\Command",
+			"sourceIndexes" : 
+			[
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			]
+		},
+		{
+			"name" : "Null\\RenderState",
+			"sourceIndexes" : 
+			[
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28
+			]
+		},
+		{
+			"name" : "Null\\Shader",
+			"sourceIndexes" : 
+			[
+				29,
+				30
+			]
+		},
+		{
+			"name" : "Null\\Texture",
+			"sourceIndexes" : 
+			[
+				31,
+				32,
+				33,
+				34,
+				35,
+				36
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "third_party/LLGL/sources/Renderer/Null/NullModuleInterface.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "third_party/LLGL/sources/Renderer/Null/NullRenderSystem.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "third_party/LLGL/sources/Renderer/Null/NullRenderSystem.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "third_party/LLGL/sources/Renderer/Null/NullSwapChain.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "third_party/LLGL/sources/Renderer/Null/NullSwapChain.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "third_party/LLGL/sources/Renderer/Null/Buffer/NullBuffer.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "third_party/LLGL/sources/Renderer/Null/Buffer/NullBuffer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "third_party/LLGL/sources/Renderer/Null/Buffer/NullBufferArray.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "third_party/LLGL/sources/Renderer/Null/Buffer/NullBufferArray.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "third_party/LLGL/sources/Renderer/Null/Command/NullCommand.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "third_party/LLGL/sources/Renderer/Null/Command/NullCommandBuffer.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"path" : "third_party/LLGL/sources/Renderer/Null/Command/NullCommandBuffer.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "third_party/LLGL/sources/Renderer/Null/Command/NullCommandExecutor.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"path" : "third_party/LLGL/sources/Renderer/Null/Command/NullCommandExecutor.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"path" : "third_party/LLGL/sources/Renderer/Null/Command/NullCommandOpcode.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "third_party/LLGL/sources/Renderer/Null/Command/NullCommandQueue.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"path" : "third_party/LLGL/sources/Renderer/Null/Command/NullCommandQueue.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "third_party/LLGL/sources/Renderer/Null/RenderState/NullFence.cpp",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 2,
+			"path" : "third_party/LLGL/sources/Renderer/Null/RenderState/NullFence.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "third_party/LLGL/sources/Renderer/Null/RenderState/NullPipelineLayout.cpp",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 2,
+			"path" : "third_party/LLGL/sources/Renderer/Null/RenderState/NullPipelineLayout.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "third_party/LLGL/sources/Renderer/Null/RenderState/NullPipelineState.cpp",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 2,
+			"path" : "third_party/LLGL/sources/Renderer/Null/RenderState/NullPipelineState.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "third_party/LLGL/sources/Renderer/Null/RenderState/NullQueryHeap.cpp",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 2,
+			"path" : "third_party/LLGL/sources/Renderer/Null/RenderState/NullQueryHeap.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "third_party/LLGL/sources/Renderer/Null/RenderState/NullRenderPass.cpp",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 2,
+			"path" : "third_party/LLGL/sources/Renderer/Null/RenderState/NullRenderPass.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "third_party/LLGL/sources/Renderer/Null/RenderState/NullResourceHeap.cpp",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 2,
+			"path" : "third_party/LLGL/sources/Renderer/Null/RenderState/NullResourceHeap.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "third_party/LLGL/sources/Renderer/Null/Shader/NullShader.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 2,
+			"path" : "third_party/LLGL/sources/Renderer/Null/Shader/NullShader.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "third_party/LLGL/sources/Renderer/Null/Texture/NullRenderTarget.cpp",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"path" : "third_party/LLGL/sources/Renderer/Null/Texture/NullRenderTarget.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "third_party/LLGL/sources/Renderer/Null/Texture/NullSampler.cpp",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"path" : "third_party/LLGL/sources/Renderer/Null/Texture/NullSampler.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "third_party/LLGL/sources/Renderer/Null/Texture/NullTexture.cpp",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 2,
+			"path" : "third_party/LLGL/sources/Renderer/Null/Texture/NullTexture.h",
+			"sourceGroupIndex" : 5
+		}
+	],
+	"type" : "SHARED_LIBRARY"
+}

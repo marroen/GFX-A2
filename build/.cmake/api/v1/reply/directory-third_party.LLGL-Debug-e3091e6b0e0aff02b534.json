@@ -1,0 +1,136 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"third_party/LLGL/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 780,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 781,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 782,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 789,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"third_party/LLGL/build/libLLGLD.dylib"
+			],
+			"targetId" : "LLGL::@5e5d55b1aec3edd41925",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"third_party/LLGL/build/libLLGL_NullD.dylib"
+			],
+			"targetId" : "LLGL_Null::@d4b6812dabab1626472b",
+			"targetIndex" : 1,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"third_party/LLGL/build/libLLGL_OpenGLD.dylib"
+			],
+			"targetId" : "LLGL_OpenGL::@ff05f327e30690fc5e7a",
+			"targetIndex" : 2,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				{
+					"from" : "third_party/LLGL/include",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/LLGL",
+			"exportName" : "LLGLTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "LLGL::@5e5d55b1aec3edd41925",
+					"index" : 0
+				},
+				{
+					"id" : "LLGL_Null::@d4b6812dabab1626472b",
+					"index" : 1
+				},
+				{
+					"id" : "LLGL_OpenGL::@ff05f327e30690fc5e7a",
+					"index" : 2
+				}
+			],
+			"paths" : 
+			[
+				"third_party/LLGL/CMakeFiles/Export/0d73479e6c054791440a2c54bad87ff6/LLGLTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/LLGL",
+			"paths" : 
+			[
+				"build/third_party/LLGL/LLGLConfig.cmake"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "third_party/LLGL",
+		"source" : "third_party/LLGL"
+	}
+}

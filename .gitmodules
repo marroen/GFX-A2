@@ -1,0 +1,3 @@
+[submodule "third_party/LLGL"]
+	path = third_party/LLGL
+	url = https://github.com/LukasBanana/LLGL.git
